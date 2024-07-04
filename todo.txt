@@ -1,0 +1,6 @@
+LOGINS
+login atteempt should be fixed it should increment by atempt
+login should be tracable to a user
+
+SIGNUP
+Add OAUTH options for signup add these fetures to backend and frontend
